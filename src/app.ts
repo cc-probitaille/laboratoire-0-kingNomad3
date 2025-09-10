@@ -55,7 +55,7 @@ class App {
         {
           title: `${titreBase}`,
           user: user,
-          joueurs: JSON.parse(jeuRoutes.controleurJeu.joueurs)
+          joueurs: JSON.parse(jeuRoutes.controleurJeu.joue6rs)
         });
     });
 
