@@ -226,6 +226,5 @@ http://www.plantuml.com/plantuml/proxy?cache=no&fmt=svg&src=https://raw.githubus
 
 Diagramme de classes logicielles
 
-- Source PlantUML : [modeles/App.puml](modeles/App.puml)
-
 ![Diagramme de classes (App)](modeles/App.svg)
+
