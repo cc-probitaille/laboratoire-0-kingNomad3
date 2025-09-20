@@ -73,7 +73,7 @@ class App {
         return {
           nom: joueur.nom,
           lancers: joueur.lancers,
-          lancersGagnes: joueur.lancersGagnes,
+          lancersGagnes: joueur.lancersGagnes,  
           ratio: ratio
         };
       });
