@@ -226,5 +226,8 @@ http://www.plantuml.com/plantuml/proxy?cache=no&fmt=svg&src=https://raw.githubus
 
 ## Diagramme de classes logicielles
 
-[Voir le diagramme PlantUML](modeles/App.puml)
+## Diagramme de classes logicielles
+
+![Diagramme de classes (App)](http://www.plantuml.com/plantuml/proxy?cache=no&fmt=svg&src=https://raw.githubusercontent.com/kingNomad3/laboratoire-0-kingNomad3/master/docs/modeles/App.puml)
+
 
