@@ -222,3 +222,10 @@ Voici la même figure, mais sous forme de diagramme de séquence avec l'acteur. 
 ![Diagramme de cas d'utilisation](
 http://www.plantuml.com/plantuml/proxy?cache=no&fmt=svg&src=https://raw.githubusercontent.com/<ton-compte>/<repo>/master/docs/modeles/dcu.puml
 )
+
+
+Diagramme de classes logicielles
+
+- Source PlantUML : [modeles/App.puml](modeles/App.puml)
+
+![Diagramme de classes (App)](modeles/App.svg)
