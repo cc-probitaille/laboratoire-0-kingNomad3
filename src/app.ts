@@ -55,7 +55,7 @@ class App {
         {
           title: `${titreBase}`,
           user: user,
-          joueurs: JSON.parse(jeuRoutes.controleurJeu.joue6rs)
+          joueurs: JSON.parse(jeuRoutes.controleurJeu.joueurs)
         });
     });
 
@@ -92,7 +92,11 @@ class App {
 
 
     this.expressApp.use('/', router);  // routage de base
-
+//////////// Inspirer de chatgpt
+    this.expressApp.get('/api/v1/joueurs', (_req, res) => {
+      res.status(200).json(JSON.parse(jeuRoutes.controleurJeu.joueurs));
+    });
+///////////////////
     this.expressApp.use('/api/v1/jeu', jeuRoutes.router);  // tous les URI pour le scénario jeu (DSS) commencent ainsi
   }
 
