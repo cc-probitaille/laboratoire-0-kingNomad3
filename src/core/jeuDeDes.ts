@@ -17,6 +17,8 @@ export class JeuDeDes {
         this._d2 = new De();
     }
 
+
+
     /**
      *  opérations systèmes (du DSS), responsabilités données aux contrôleur GRASP
      */
@@ -40,7 +42,7 @@ export class JeuDeDes {
         }
         const somme = this.brasser()
         joueur.lancer();
-        const gagne = somme === 7;
+        const gagne = somme === 7; 
         if (gagne) joueur.gagner();
         const resultat = {
             nom: nom,
@@ -53,6 +55,13 @@ export class JeuDeDes {
         };
         // ne pas retourner l'objet de la couche domaine
         return JSON.stringify(resultat);
+    }
+
+    public redemarrerJeu(): string {
+
+        this._joueurs.clear();
+
+        return JSON.stringify({message: 'Success', joueurs: [] });
     }
 
     public terminerJeu(nom: string): string {

@@ -1,4 +1,5 @@
-@startuml DSS pour le scénario Redémarrer
+@startuml
+skinparam style strictuml
 actor Joueur as J
 participant ":Système" as S
 
