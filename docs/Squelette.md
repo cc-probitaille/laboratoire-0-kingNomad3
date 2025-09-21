@@ -220,13 +220,12 @@ Voici la même figure, mais sous forme de diagramme de séquence avec l'acteur. 
 
 ### Diagramme de cas d'utilisation
 
-![Diagramme de cas d'utilisation](
-http://www.plantuml.com/plantuml/proxy?cache=no&fmt=svg&src=https://raw.githubusercontent.com/<ton-compte>/<repo>/master/docs/modeles/dcu.puml
-)
+![Diagramme de cas d’utilisation](http://www.plantuml.com/plantuml/proxy?cache=no&fmt=svg&src=https://raw.githubusercontent.com/kingNomad3/laboratoire-0-kingNomad3/master/docs/modele/dcu/Diagrammedecasdutilisation.svg)
 
 
 ## Diagramme de classes logicielles
 
-![Mon diagramme](http://www.plantuml.com/plantuml/proxy?cache=no&fmt=svg&src=https://raw.githubusercontent.com/<user>/<repo>/<branch>/docs/modeles/monDiagramme.puml)
+![Diagramme de classes logicielles](http://www.plantuml.com/plantuml/proxy?cache=no&fmt=svg&src=https://raw.githubusercontent.com/kingNomad3/laboratoire-0-kingNomad3/master/docs/modele/App.puml)
+
 
 
