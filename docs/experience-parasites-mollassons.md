@@ -13,4 +13,12 @@ Plus tard dans le semestre, **si votre équipe porte un manque de performance à
 
 Mettez votre réponse (environ 300 mots) ci-dessous:
 
+Le texte sur les parasites et les mollassons décrit des comportements que l’on retrouve malheureusement dans plusieurs contextes de travail en équipe. À la lecture, j’ai immédiatement penser à une expérience vécue dans un projet au CEGEP. Dans cette équipe, un membre n’a jamais réellement contribué au travail. Malgré nos multiples tentatives de communication et les rappels envoyés, cet individu trouvait toujours une excuse (il remettait toujours au lendemain, le travail demandé) ou ne répondait tout simplement pas. Cette situation créait beaucoup de frustration dans l'équipe, puisque les autres membres de l’équipe devaient compenser pour son absence.
+
+Au final, nous avons choisi de lui donner une dernière chance avant de prendre une décision plus ferme. Nous l’avons contactée directement, en lui expliquant que nous avions besoin de sa collaboration et que c’était sa dernière occasion de participer au travail d'équipe. Ce geste correspond aux recommandations du texte : il est important de confronter le problème. Malheureusement, cette démarche n’a rien changé. la personne n’a toujours pas fourni de contribution au projet
+
+À la fin du projet, nous avons pris la décision de retirer tout simplement son nom du travail remis. Cette décision a été prise collectivement, et elle reflétait notre volonté de ne pas récompenser un comportement de type « parasite », où une personne profite des efforts des autres sans rien apporter en retour. Le texte insiste sur la nécessité de poser des limites claires et de ne pas laisser un membre tirer profit du travail de l’équipe. C’est exactement ce que nous avons appliqué dans ce cas précis. 
+
+Pour mes futurs projets, je retiens qu’il ne faut pas attendre trop longtemps avant d’agir, car laisser traîner un tel problème crée beaucoup de frustration et nuit au projet à réaliser. 
+
 ---
