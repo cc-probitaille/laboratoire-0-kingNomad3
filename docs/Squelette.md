@@ -213,7 +213,8 @@ Voici la même figure, mais sous forme de diagramme de séquence avec l'acteur. 
 
 - L'instance j de Joueur a été supprimée sur une base de correspondance avec nom
 
-![Diagramme de séquence, terminerJeu](http://www.plantuml.com/plantuml/proxy?cache=no&fmt=svg&src=https://raw.githubusercontent.com/profcfuhrmanets/log210-jeu-de-des-node-express-ts/master/docs/modeles/rdcu-terminerJeu.puml)
+![Mon diagramme](http://www.plantuml.com/plantuml/proxy?cache=no&fmt=svg&src=https://raw.githubusercontent.com/<user>/<repo>/<branch>/path/to/file.puml)
+
 
 [README.md](../README.md)
 
@@ -226,5 +227,6 @@ http://www.plantuml.com/plantuml/proxy?cache=no&fmt=svg&src=https://raw.githubus
 
 ## Diagramme de classes logicielles
 
-![Diagramme de classes (App)](modeles/App.svg)
+![Mon diagramme](http://www.plantuml.com/plantuml/proxy?cache=no&fmt=svg&src=https://raw.githubusercontent.com/<user>/<repo>/<branch>/docs/modeles/monDiagramme.puml)
+
 
