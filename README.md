@@ -591,3 +591,11 @@ Le calcul de la note du laboratoire se fait à partir des résultats des tests a
 [^1]: évaluation faite par l'auxiliaire d'enseignement
 
 $$\textup{Note}=\frac{e+b+c+C+v-d}{10+6+10+t-d}100$$
+
+
+## La video demo
+[Watch the demo](./demo.mp4)
+
+
+### Je ne sais pas pourquoi mais mon laptop renvoie 99lv comme auteur pour les pushs. Cette capture montre les push que j'ai fait qui correspondent à mon compte github et au messages.
+![Alt text](./image.png)
