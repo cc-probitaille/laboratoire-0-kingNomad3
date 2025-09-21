@@ -107,12 +107,23 @@ export class JeuRouter {
     }
   }
 
-public redemarrerJeu(req: Request, res: Response, _next: NextFunction) {
-  this.controleurJeu.redemarrerJeu();
-  const joueurs = JSON.parse(this._controleurJeu.joueurs);
-  req.flash('info', 'Le jeu redémarre');
-  return res.status(200).json({ message: 'Success', joueurs });
+public redemarrerJeu(req: Request, res: Response, next: NextFunction) { 
+  try {
+    const resultat = this._controleurJeu.redemarrerJeu(); 
+    const resultatObj = JSON.parse(resultat);
+
+    req.flash?.('info', 'Application redémarrée');
+
+    return res.status(200).send({
+      message: 'Success',
+      status: res.status,
+      resultat: resultatObj, 
+    });
+  } catch (error) {
+    this._errorCode500(error, req, res);
+  }
 }
+
 
 
 

@@ -3,5 +3,5 @@ skinparam style strictuml
 actor Joueur as J
 participant ":Système" as S
 
-J -> S : redemarrerJeu()
+J -> S : redémarrerJeu()
 @enduml

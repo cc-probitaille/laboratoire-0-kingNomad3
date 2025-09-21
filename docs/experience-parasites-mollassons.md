@@ -19,6 +19,6 @@ Au final, nous avons choisi de lui donner une dernière chance avant de prendre 
 
 À la fin du projet, nous avons pris la décision de retirer tout simplement son nom du travail remis. Cette décision a été prise collectivement, et elle reflétait notre volonté de ne pas récompenser un comportement de type « parasite », où une personne profite des efforts des autres sans rien apporter en retour. Le texte insiste sur la nécessité de poser des limites claires et de ne pas laisser un membre tirer profit du travail de l’équipe. C’est exactement ce que nous avons appliqué dans ce cas précis. 
 
-Pour mes futurs projets, je retiens qu’il ne faut pas attendre trop longtemps avant d’agir, car laisser traîner un tel problème crée beaucoup de frustration et nuit au projet à réaliser. 
+Pour mes futurs projets, je retiens qu’il ne faut pas attendre trop longtemps avant d’agir, car laisser traîner un tel problème crée beaucoup de frustration et nuit au projet à réaliser. Il est important que dès le début du projet, les attentes soient clairement définies et que chaque membre comprenne son rôle et ses responsabilités. Une communication ouverte et honnête est essentielle pour le succès d’une équipe.
 
 ---

@@ -234,4 +234,6 @@ Voici la même figure, mais sous forme de diagramme de séquence avec l'acteur. 
 ![Drdcu-jouer](http://www.plantuml.com/plantuml/proxy?cache=no&fmt=svg&src=https://raw.githubusercontent.com/cc-probitaille/laboratoire-0-kingNomad3/master/docs/modeles/rdcu-jouer.puml)
 
 
+- d3.valeur est devenue un nombre entier aléatoire entre 1 et 6
+- j.nbLancersGagnés a été incrémenté si la totale de d1.valeur, d2.valeur, d3.valeur est plus petite ou égale à 10
 
