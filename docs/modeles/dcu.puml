@@ -11,6 +11,11 @@ rectangle "Système" {
   J -- JP
   J -- R
 }
+note right of JP
+  Le joueur lance 3 dés.
+  Le système calcule la somme.
+  Le joueur gagne si la somme ≤ 10.
+end note
 @enduml
 
 
